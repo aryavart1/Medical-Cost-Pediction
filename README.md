@@ -1,2 +1,2 @@
-# Medical-Cost-Pediction
+# Medical-Cost-Prediction
 Linear regression
